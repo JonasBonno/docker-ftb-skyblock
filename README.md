@@ -5,7 +5,7 @@ made by Feed The Beast at https://feed-the-beast.com
 Modpack for Minecraft 1.7.10.
 FTB Infinity Evolved Skyblock is a modpack designed to provide an extra challenge for any experienced Minecrafter. Work your way through new recipes, twisted game mechanics, and collect the rare and mysterious trophies! Warning, may consume a vast amount of your time. Fastcraft is enabled in this pack by default.
 
-<img src="http://media-elerium.cursecdn.com/avatars/37/382/635951126086881336.png" width="338" height="338">
+<img src="https://apps.modpacks.ch/modpacks/art/24/infinity-evolved-skyblock.png" width="338" height="338">
 
 NOTE: In compliance with Mojang "End User License Agreement", you will need to agree to the EULA in order to run your own Minecraft server. By using this container you acknowledge the EULA! If you do not agree, then you are not permitted to use this container!
 
